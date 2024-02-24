@@ -1,16 +1,9 @@
-# market_11_27
+#Создание маркета
+##
+![image](https://github.com/GirlSailor/market/assets/145029043/76d7f4a7-dae0-462b-90c7-ee54c2d7f89c)
 
-A new Flutter project.
+![image](https://github.com/GirlSailor/market/assets/145029043/821c8da8-bf50-45b7-8dd5-f01cde2fa1ad)
+![image](https://github.com/GirlSailor/market/assets/145029043/7fbb8665-7be6-42e1-8aca-2fbcaded2f8e)
+![image](https://github.com/GirlSailor/market/assets/145029043/2807afef-1baa-4e84-a97a-8fec20d52529)
+![image](https://github.com/GirlSailor/market/assets/145029043/87d45e60-b5a9-419f-9609-5f7a5fe528be)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
